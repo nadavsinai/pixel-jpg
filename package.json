@@ -27,7 +27,7 @@
   "author": "59naga <i59naga@icloud.com> (http://berabou.me)",
   "license": "MIT",
   "dependencies": {
-    "jpeg-js": "~0.1.1"",
+    "jpeg-js": "~0.1.1",
     "pixel-util": "^0.0.2",
     "varify": "^0.1.1"
   },
